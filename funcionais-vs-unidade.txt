@@ -1,0 +1,21 @@
+funcionais-vs-unidade.txt
+
+Funcionais:
+
+-> O teste funcional de um sistema envolve testes que avaliam as funções 
+que o sistema deve executar.
+
+-> O projeto e a execução de testes funcionais podem envolver habilidades 
+ou conhecimentos especiais, como o conhecimento específico de um problema 
+de negócios que o software resolve ou o papel específico 
+que o software desempenha.
+
+Unidade:
+
+-> O Teste de unidade ou de módulo, verifica o funcionamento da menor unidade
+de um código testável da aplicação, independente da interação dela com outras
+partes do nosso código. 
+
+-> Esse tipo de teste geralmente é realizado isoladamente do resto do sistema. 
+Pode utilizar objetos simulados, virtualização de serviços, 
+simuladores e controladores.
