@@ -1,0 +1,5 @@
+Leia, entenda e analise o recurso a ser implementado ou a indicação de erro. (passo1)
+Traduza a requisição necessária escrevendo um teste unitário.
+Escreva e implemente o código que preenche a solicitação.
+Limpe seu código por meio da refatoração.
+Volte ao passo 1 e faça tudo novamente.
